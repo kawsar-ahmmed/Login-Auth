@@ -1,0 +1,103 @@
+.form-heading {
+    padding: 15px 0;
+}
+
+.form-heading h2 {
+    color: #0dca78;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.login-icon p {
+    padding: 25px;
+    color: #bbbbbb;
+}
+
+.login-icon i {
+    font-size: 20px;
+    margin: 0px 10px;
+    padding: 20px;
+    border: 1px solid #f1f1f1;
+    border-radius: 50px;
+}
+
+.login-icon button {
+    background: none;
+    border: none;
+}
+
+.form-container input {
+    height: 50px;
+    padding-left: 20px;
+}
+
+.form-control:focus {
+    border-color: #0dca78 !important;
+    box-shadow: none;
+}
+
+.form-container .check-items {
+    text-align: left !important;
+}
+
+.check-items input {
+    padding-left: 0;
+    height: 15px;
+}
+
+.check-items {
+    display: flex;
+}
+
+.check-items label {
+    margin-left: 15px;
+}
+
+.form-right {
+    background: url('https://res.cloudinary.com/dhhcesyn3/image/upload/v1633790255/v-expert/Login/login-page_xs1ov6.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+}
+
+.align-items {
+    align-items: center !important;
+}
+
+.form-container button {
+    background: #0dca78;
+    padding: 13px 40px;
+    border: none;
+    margin-top: 30px;
+}
+
+.front-right-content {
+    padding: 335px 0;
+}
+
+.front-right-content h2 {
+    font-size: 40px;
+    font-weight: 800;
+    color: #ffff;
+    padding-bottom: 15px;
+}
+
+.front-right-content p {
+    color: #fff;
+    font-size: 20px;
+    padding-bottom: 45px;
+}
+
+.front-right-content input {
+    padding: 15px 45px;
+    background: #fff;
+    border: none;
+    border-radius: 4px;
+    color: #0dca78;
+    font-size: 18px;
+}
+.forgate-password {
+    cursor: pointer;
+    color: #0dca78;
+    padding-top: 25px;
+}
